@@ -42,13 +42,6 @@ that challenge frontier models.
 
 More at **[yashjoshi.in/writing](https://www.yashjoshi.in/writing)**
 
-### 📊 GitHub
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yashjk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yash Joshi's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashjk&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
 ---
 
 <p align="center"><i>Find more of my work at <a href="https://www.yashjoshi.in">www.yashjoshi.in</a></i></p>
