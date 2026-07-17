@@ -37,6 +37,7 @@ that challenge frontier models.
 
 ### ✍️ Writing
 
+- [The Benchmark Failed Before the Model Did](https://medium.com/@injose.joshi/the-benchmark-failed-before-the-model-did-b0c5b9ec6eff)
 - [The Motivation Myth: How Discipline Outperforms Inspiration](https://medium.com/@injose.joshi/kill-motivation-for-success-the-power-of-discipline-over-inspiration-d06e38fce664)
 - [Integrating Plaid and Dwolla with a Next.js App](https://medium.com/@injose.joshi/integrating-plaid-and-dwolla-with-a-next-js-app-329022a2cd75)
 
